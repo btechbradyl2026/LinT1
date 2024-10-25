@@ -10,5 +10,6 @@ public class HollowRunner {
         }
         System.out.println("winner!!!");
         System.out.println("chicken fries");
+        System.out.println("dinner");
     }
 }
