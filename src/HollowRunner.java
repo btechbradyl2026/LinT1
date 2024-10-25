@@ -8,5 +8,6 @@ public class HollowRunner {
         } else {
             System.out.println("fake");
         }
+        System.out.println("winner!!!");
     }
 }
